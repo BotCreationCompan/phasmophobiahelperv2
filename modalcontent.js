@@ -35,7 +35,7 @@ curcontent["rules"] = {
 <p><li>4.9 На проекте есть только администрация и проверяющие (игроки ответственные за проверку на стороннее ПО).</p>\
 <p><li>4.10 Администрация не несёт ответственности за обмены на сервере.</p>\
 <p><li>4.11 Администрация вправе заблокировать вас за неоглашенные правила.</p>\<br>\
-</ul><div class="unban" style="background: white; border-radius: 10px; padding: 20px;"><p class="MsoNormal" style="font-weight: bold; margin-bottom: 5px;">Возможность разблокировки</p><span>Через месяц после блокировки можно подать апелляцию, но, только в случае если бан был получен не за читы или макросы. Писать апелляцию нужно в личные сообщения группы: <a href="https://vk.com/smallestrust">vk.com/smallestrust</a></span></div></div></div>'
+</ul><div class="unban" style="background: white; border-radius: 10px; padding: 20px;"><p class="MsoNormal" style="font-weight: bold; margin-bottom: 5px;">Дополнительно</p><span>Снимаются баны ТОЛЬКО за превышение игроков в команде. Подача апелляций в личных сообщениях группы - <a href="https://vk.com/smallestrust">vk.com/smallestrust</a><br>*гарантий на снятие блокировки нет*</span></div></div></div>'
 };
 
 function Open(el, usefade = true, zind = false) {
